@@ -32,15 +32,6 @@ Machine Failure Prediction Model is a solution that leverages machine learning t
    ```bash
    git clone https://github.com/amidstdebug/Machine-Failure-Prediction-Model.git
    ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd "Machine Failure Prediction Model"
-   ```
-
-3. Install the required packages:
-   
-   Please reference ipynb notebook!
    
 
 ## Usage
