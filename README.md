@@ -40,7 +40,7 @@ Machine Failure Prediction Model is a solution that leverages machine learning t
 
 ## Usage
 
-1. Prepare your dataset by following the dataset format as mentioned in the `data` folder.
+1. Prepare your dataset by following the dataset format as mentioned in the `*.csv` file.
 
 2. Open the IPython notebook to view the implementation:
    ```
