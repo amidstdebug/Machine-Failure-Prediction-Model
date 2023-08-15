@@ -1,0 +1,35 @@
+******* factory dataset (classification) ********
+
+This is a dataset collected from a manufacturing company, it contains 20000 data points with 9 columns.
+
+Unique ID: Unique identifier ranging from 1 to 20000
+Product ID: The serial number of product
+Quality: Consist of letter L, M and H for low, medium and high quality
+Ambient T: Environment temperature
+Process T: Machine temperature
+Rotation Speed: Rotational speed of machine when running
+Torque: Measure of the turning force
+Tool Wear: Tool wear time estimated for the machine
+Machine Status: Labels indicate machine failure or not, 1 means failure, 0 means normal.
+
+
+******* pc price dataset (regression) ********
+This is a dataset collected from a PC website, it contains 15320 data points with 12 columns.
+
+Product ID: unique identifier ranging from 0 to 15319
+Brand: Brand of the PC
+Type: PC type, such as notebook, ultrabook
+Screen Size: Size of the PC screen
+Screen Specs: PC screen specs with resolution
+CPU: CPU infomation of the PC
+RAM: RAM information of the PC
+Hard Disk: Hard Disk information of the PC
+GPU: Graphic card of the PC
+Operating System: Operating system, such as Windows 10, macOS
+Weight: Weight of the PC
+Price: PC price
+
+
+
+
+
