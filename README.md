@@ -39,9 +39,9 @@ Machine Failure Prediction Model is a solution that leverages machine learning t
    ```
 
 3. Install the required packages:
-   ```
-   reference ipynb notebook
-   ```
+   
+   Please reference ipynb notebook!
+   
 
 ## Usage
 
